@@ -74,7 +74,7 @@ namespace WindowsFormsApp1
                     BindGrid(listNewNhanvien);
                     txtMaNV.Text = "";
                     txtTenNV.Text = "";
-                    MessageBox.Show("Xóa nhân viên thanh công", "Thông báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Xóa nhân viên thành công", "Thông báo", MessageBoxButtons.OK);
                 }
             }
         }
